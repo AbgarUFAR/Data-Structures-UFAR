@@ -1,4 +1,4 @@
-package homework3;
+package homework3.solution1;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
